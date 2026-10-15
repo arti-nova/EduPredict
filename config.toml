@@ -1,0 +1,5 @@
+# Save this file as  .streamlit/config.toml  (next to app.py), then restart Streamlit.
+# It stops Streamlit's default red accent and your OS/browser dark theme from leaking into the app.
+[theme]
+base = "light"
+primaryColor = "#14b8a6"
